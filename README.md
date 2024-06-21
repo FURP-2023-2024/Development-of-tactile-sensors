@@ -14,11 +14,11 @@ This project is an extension of our existing fyp and furp projects, aiming to fu
 
 ## Resources
 
-[](https://www.liebertpub.com/doi/epdf/10.1089/soro.2017.0052)
+[Tactip paper](https://www.liebertpub.com/doi/epdf/10.1089/soro.2017.0052)
 
-[](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6490960)
+[tactip paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6490960)
 
-[](https://ieeexplore.ieee.org/abstract/document/9028163)
+[tactip paper](https://ieeexplore.ieee.org/abstract/document/9028163)
 
 [Tactile sensor (TacTip) feeling a human head](https://www.youtube.com/watch?v=JZEvsWnDl6g)
 
